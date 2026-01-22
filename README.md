@@ -4,3 +4,5 @@
 This is a new test file.
 one asterick around word *intalicizes*
 two astericks **bolds**
+
+added text
